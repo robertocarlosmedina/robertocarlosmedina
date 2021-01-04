@@ -1,5 +1,5 @@
 ### Hi, I'm Roberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Software--Engineering--Student%20%40%20-UTA-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
 
 ## Your short description
 - 🔭 I’m currently working on - Game Development
