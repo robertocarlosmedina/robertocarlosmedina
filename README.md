@@ -1,7 +1,7 @@
 # Hi, I'm Roberto Carlos   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px">  
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
 
-## Your short description
+## Short description
 - 🔭 I’m currently working on - Game Development
 - 🌱 I’m currently learning - Machine Learnning
 - 👯 I’m looking to collaborate with - Some good ideas, and also codes
