@@ -1,4 +1,4 @@
-# Hi, I'm Roberto Carlos   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px">  
+#                 Hi, I'm Roberto Carlos   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px">  
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
 
 ## Your short description
@@ -9,7 +9,7 @@
 - 🥅 2021 Goal - Learn and practice more
 - ⚡ Fun fact - I also do calistenic
 
-## - Activity details
+##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
@@ -22,7 +22,7 @@
 <br />
 
 <!-- Optional if you have blogs -->
-## - Working on:
+##   Working on:
 - [Minotroll Game](https://github.com/programmingGames/Minotroll)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
