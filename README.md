@@ -12,7 +12,7 @@
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?RobertoCarlosMedina=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/RobertoCarlosMedina=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with me:
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
