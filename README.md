@@ -9,6 +9,7 @@
 - 🥅 2021 Goal - Learn and practice more
 - ⚡ Fun fact - I also do calistenic
 
+## Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
