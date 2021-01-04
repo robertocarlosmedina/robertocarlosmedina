@@ -11,7 +11,7 @@
 
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
+[![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
 ## Connect with me:
