@@ -1,7 +1,6 @@
+
 # Hi, I'm Roberto Carlos
-<p align="center">
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
- </p>
 
 ## Short description
 - 🔭 I’m currently working on - Game Development
@@ -14,9 +13,7 @@
 ##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-<p align="center">
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
-<br />
  </p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
