@@ -32,7 +32,7 @@
 
 <!-- Optional if you have blogs -->
 ##   Working on:
-- [Minotroll Game](https://github.com/programmingGames/Minotroll)
+- [Moonlove app](https://github.com/RobertoCarlosMedina/Moonlove)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
