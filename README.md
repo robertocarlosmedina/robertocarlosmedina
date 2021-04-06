@@ -13,6 +13,7 @@
 ##   Activity details
 <!-- .... means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
+<p align="center">
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
  </p>
 <!--
