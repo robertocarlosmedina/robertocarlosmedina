@@ -12,7 +12,7 @@
 
 ##   Activity details
 
-[![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical&align=center)](https://github.com/RobertoCarlosMedina)
+[![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
