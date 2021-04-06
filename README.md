@@ -9,20 +9,14 @@
 - 💬 Ask me about - Programming questions
 - 🥅 2021 Goal - Learn and practice more
 - ⚡ Fun fact - I also do calistenic
-<p align="center">
+
 ##   Activity details
-<!-- .... means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
 
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
- </p>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
-
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />-->
+-->
 ## Connect with me:
 <p align="center">
      <a href="https://wa.me/+2385843604"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="100" height="50" /></a>
