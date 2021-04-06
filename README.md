@@ -3,15 +3,13 @@
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
 
 ## Short description
-<p align="center>
 - 🔭 I’m currently working on - Game Development
 - 🌱 I’m currently learning - Machine Learnning
 - 👯 I’m looking to collaborate with - Some good ideas, and also codes
 - 💬 Ask me about - Programming questions
 - 🥅 2021 Goal - Learn and practice more
 - ⚡ Fun fact - I also do calistenic
-<p>
-
+- 
 ##   Activity details
 
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
