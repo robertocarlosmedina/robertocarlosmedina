@@ -34,6 +34,15 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
  </div>
+ 
+ 
+## Short description
+- 🔭 I’m currently working on - Game Development
+- 🌱 I’m currently learning - Machine Learnning
+- 👯 I’m looking to collaborate with - Some good ideas, and also codes
+- 💬 Ask me about - Programming questions
+- 🥅 2021 Goal - Learn and practice more
+- ⚡ Fun fact - I also do calistenic
 
 ## Connect with me:
 <p align="center">
