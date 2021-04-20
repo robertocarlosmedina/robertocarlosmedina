@@ -1,7 +1,8 @@
-
+<div align=center>
 # Hi, I'm Roberto Carlos
-[![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
 
+[![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://google.com)
+</div>
 ## Short description
 - 🔭 I’m currently working on - Game Development
 - 🌱 I’m currently learning - Machine Learnning
