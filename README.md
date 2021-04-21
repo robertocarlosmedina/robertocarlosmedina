@@ -37,7 +37,7 @@
  
  
 ## Short description
-- 🔭 I’m currently working on - Game Development
+- 🔭 I’m currently working on - Solfware development, Algorithms and Distributed Systems
 - 🌱 I’m currently learning - Machine Learnning
 - 👯 I’m looking to collaborate with - Some good ideas, and also codes
 - 💬 Ask me about - Programming questions
