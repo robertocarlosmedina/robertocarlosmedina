@@ -10,9 +10,6 @@
 
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
 </div>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide=html,css&langs_count=8&theme=radical&layout=compact)](https://github.com/RobertoCarlosMedina)
--->
 
 ## Skills developed / under development
 <div align=center>
@@ -53,12 +50,8 @@
      <a href="https://www.facebook.com/menssage.roberto.04.contact/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="100" height="50" /></a>
 </p>
 
-<!-- Optional if you have blogs -->
 ##   Working on:
 - [Voter App](https://github.com/RobertoCarlosMedina/voter-app)
 - [Algorithms and Data Structure](https://github.com/RobertoCarlosMedina/AlgorDataStruct)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<!-- This section you create this variables that are used above -->
 [linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/
