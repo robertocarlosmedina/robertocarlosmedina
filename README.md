@@ -11,6 +11,7 @@
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
 </div>
 
+<!--
 ## Skills developed / under development
 <div align=center>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,6 +32,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
  </div>
+ --!>
  
  
 ## Short description
