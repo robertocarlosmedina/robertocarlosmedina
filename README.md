@@ -8,7 +8,7 @@
 ##   Activity details
 <p align="center">
  
-[![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
+<img align="" height='150px src='https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical' />
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 
