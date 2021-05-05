@@ -30,7 +30,7 @@
 </p>
 
 ##   Working on:
-- [Voter App](https://github.com/RobertoCarlosMedina/voter-app)
+- [Votery app](https://github.com/RobertoCarlosMedina/voter-app)
 - [Algorithms and Data Structure](https://github.com/RobertoCarlosMedina/AlgorDataStruct)
 
 [linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/
