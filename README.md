@@ -6,10 +6,11 @@
 </div>
 
 ##   Activity details
-<div align=center>
-
+<p align="center">
+ 
 [![RobertoCarlosMedina's github stats](https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/RobertoCarlosMedina)
-</div>
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
 
 ## Short description
 - 🔭 I’m currently working on - Solfware development, Algorithms and Distributed Systems
