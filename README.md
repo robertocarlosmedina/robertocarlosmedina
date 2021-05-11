@@ -32,5 +32,6 @@
 ##   Working on:
 - [VoterPy app](https://github.com/RobertoCarlosMedina/voter-app)
 - [Algorithms and Data Structure](https://github.com/RobertoCarlosMedina/AlgorDataStruct)
+- [My Portfolio](https://github.com/RobertoCarlosMedina/my_portfolio)
 
 [linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/
