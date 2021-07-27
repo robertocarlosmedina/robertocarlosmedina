@@ -8,8 +8,8 @@
 ##   Activity details
 <p align="center">
  
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&hide_title=true&show_icons=true&theme=radical" alt="aryashah2k" />
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
+<img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&hide_title=true&show_icons=true&theme=radical" alt="aryashah2k" />
+<img align="" height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
 ## Short description
