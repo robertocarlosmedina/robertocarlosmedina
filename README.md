@@ -1,6 +1,7 @@
 <div align=center>
+<h1>Hello, I'm Roberto</h1>
 <!-- <img align="" height='400px' src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/personal%20banner.png" alt="Roberto Carlos banner" /> -->
-<h1>>Hello, I'm Roberto</h1>
+
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://uta.cv)
 
 </div>
