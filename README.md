@@ -27,7 +27,7 @@
      <a href="https://www.instagram.com/_roberto_rob/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="80" height="40" /></a>
      <a href="https://twitter.com/Roberto83255889"><img title="Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"   width="80" height="40" /></a>
      <a href="https://www.facebook.com/menssage.roberto.04.contact/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="80" height="40" /></a>
-     <a href="https://www.linkedin.com/in/roberto-medina-28062318a/"><img title="Facebook" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg"   width="80" height="40" /></a>
+     <a href="https://www.linkedin.com/in/roberto-medina-28062318a/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="80" height="40" /></a>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/
