@@ -1,5 +1,5 @@
-<div align=center style={background-color: #000000}>
-<img align="" height='350px' src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/personal%20banner.png" alt="Roberto Carlos banner" />
+<div align=center>
+<img align="" height='400px' src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/personal%20banner.png" alt="Roberto Carlos banner" />
 
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://uta.cv)
 
