@@ -1,5 +1,5 @@
 <div align=center>
- <h1>Hi, I'm Roberto Carlos</h1>
+<img align="" height='140px' src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/personal%20banner.png" alt="Roberto Carlos banner" />
 
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://uta.cv)
 
@@ -8,7 +8,7 @@
 ##   Activity details
 <p align="center">
  
-<img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&hide_title=true&show_icons=true&theme=radical" alt="aryashah2k" />
+<img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&hide_title=true&show_icons=true&theme=radical" alt="Roberto Carlos" />
 <img align="" height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
