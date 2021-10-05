@@ -12,14 +12,6 @@
 <img align="" height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
-## Short description
-- 🔭 I’m currently working on - Solfware development, Algorithms and Distributed Systems
-- 🌱 I’m currently learning - Machine Learnning
-- 👯 I’m looking to collaborate with - Some good ideas, and also codes
-- 💬 Ask me about - Programming questions
-- 🥅 2021 Goal - Learn and practice more
-- ⚡ Fun fact - I also do calistenic
-
 ## Connect with me
 <p align="center">
      <a href="https://wa.me/+2385843604"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="80" height="40" /></a>
