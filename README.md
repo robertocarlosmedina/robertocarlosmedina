@@ -25,8 +25,7 @@
 ## Visit my Portfolio
 <p align=center>
  <a href="https://robertocarlosmedina.github.io/portfolio/">
-    <img src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/Group%20129.png" alt="Potfolio icon" height="80"/>
+    <img src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/Group%20129.png" alt="Potfolio icon" height="70"/>
  </a>
 </p>
 
-[linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/
