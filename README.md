@@ -22,5 +22,11 @@
      <a href="https://www.facebook.com/menssage.roberto.04.contact/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"   width="80" height="40" /></a>
      <a href="https://www.linkedin.com/in/roberto-medina-28062318a/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="80" height="40" /></a>
 </p>
+## Visit my Portfolio
+<p align=center>
+ <a href="https://robertocarlosmedina.github.io/portfolio/">
+    <img src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/Group%20129.png" alt="Potfolio icon"/>
+ </a>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/roberto-medina-28062318a/
