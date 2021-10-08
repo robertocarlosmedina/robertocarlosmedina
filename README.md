@@ -6,14 +6,14 @@
 
 </div>
 
-##   Activity details
+<h2 align="center">Activity details</h2>
 <p align="center">
  
 <img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=RobertoCarlosMedina&hide_title=true&show_icons=true&theme=radical" alt="Roberto Carlos" />
 <img align="" height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCarlosMedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
-## Connect with me
+<h2 align="center">Connect with me</h2>
 <p align="center">
      <a href="https://wa.me/+2385843604"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="80" height="40" /></a>
      <a href="mailto:rmedina@uta.cv"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="80" height="40" /></a>
