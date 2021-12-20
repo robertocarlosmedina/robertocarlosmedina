@@ -8,8 +8,8 @@
 <h2 align="center">Activity details</h2>
 <p align="center">
  
-<img align="" height='140px' src="https://github-readme-stats.vercel.app/api?username=robertocarlosmedina&hide_title=true&show_icons=true&theme=radical" alt="Roberto Carlos" />
-<img align="" height='140px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocarlosmedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=robertocarlosmedina&hide_title=true&show_icons=true&theme=radical" alt="Roberto Carlos" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocarlosmedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
 <h2  align="center">Connect with me</h2>
