@@ -2,7 +2,7 @@
 <h1>Hello, I'm Roberto</h1>
 
 [![Website](https://img.shields.io/badge/Software--Engineering--Student-UTA-green?style=flat-square)](https://uta.cv)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" /> </p>
 
 </div>
 
