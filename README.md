@@ -17,8 +17,8 @@
 <p align="center">
      <a href="https://wa.me/+2385843604"><img alt="WhatsApp"  title="WhatsApp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-ar21.svg"   width="80" height="40" /></a>
      <a href="mailto:rmedina@uta.cv"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"   width="80" height="40" /></a>
-     <a href="https://www.instagram.com/_roberto_rob/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="80" height="40" /></a>
-     <a href="https://www.linkedin.com/in/roberto-medina-28062318a/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="80" height="40" /></a>
+     <a href="https://www.instagram.com/robertocarlosmedinacv/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"   width="80" height="40" /></a>
+     <a href="https://www.linkedin.com/in/robertocarlosmedina/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"   width="80" height="40" /></a>
 </p>
 <h2  align="center">Visit my Portfolio</h2>
 <p align=center>
