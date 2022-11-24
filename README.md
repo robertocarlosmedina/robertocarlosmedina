@@ -2,6 +2,7 @@
 <h1>Hello, I'm Roberto</h1>
 
 <h2 align="center">Work Experiences</h2>
+  
 [![cvbooking](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![DevGO](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://cvbooking.com)
