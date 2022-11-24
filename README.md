@@ -1,11 +1,11 @@
 <div align=center>
 <h1>Hello, I'm Roberto</h1>
 
-[![Website](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blue?style=flat-square)](https://cvbooking.com)
-[![Website](https://img.shields.io/badge/Software%20Engineer-cvbooking-blue?style=flat-square)](https://cvbooking.com)
-[![Website](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-green?style=flat-square)](https://cvbooking.com)
-[![Website](https://img.shields.io/badge/Software%20Engineer-DevGo-green?style=flat-square)](https://devgo.org)
-[![Website](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blue?style=flat-square)](https://uta.cv)
+[![cvbooking](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blue?style=circle-square)](https://cvbooking.com)
+[![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blue?style=circle-square)](https://cvbooking.com)
+[![DevGO](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-green?style=circle-square)](https://cvbooking.com)
+[![DevGo](https://img.shields.io/badge/Software%20Engineer-DevGo-green?style=circle-square)](https://devgo.org)
+[![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blue?style=circle-square)](https://uta.cv)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
   <a href="https://discord.gg/A6FNKHwhGv">
