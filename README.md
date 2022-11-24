@@ -22,7 +22,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Github%20Profile%20Views&color=blueviolet&style=flat" alt="robertocarlosmedina" />  
   <a href="https://discord.gg/A6FNKHwhGv">
-    <img src="https://img.shields.io/discord/308323056592486420?logo=discord?color=blueviolet" alt="chat on Discord">
+    <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
   </a>
 </p>
 
