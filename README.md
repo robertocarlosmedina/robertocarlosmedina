@@ -1,8 +1,9 @@
 <div align=center>
 <h1>Hello, I'm Roberto</h1>
 
-[![Website](https://img.shields.io/badge/Software--Engineer-DevGo-green?style=flat-square)](https://devgo.org.cv)
- [![Website](https://img.shields.io/badge/Teacher-UTA-green?style=flat-square)](https://uta.cv)
+[![Website](https://img.shields.io/badge/Software-Engineer-cvbooking-blue?style=flat-square)](https://cvbooking.com)
+[![Website](https://img.shields.io/badge/Software-Engineer-DevGo-green?style=flat-square)](https://devgo.org)
+[![Website](https://img.shields.io/badge/Teacher-UTA-blue?style=flat-square)](https://uta.cv)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" /> </p>
 
 </div>
