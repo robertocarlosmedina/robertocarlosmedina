@@ -7,16 +7,7 @@
 [![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![DevGO](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://cvbooking.com)
 [![DevGo](https://img.shields.io/badge/Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://devgo.org)
-[![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blueviolet?style=circle-square)](https://uta.cv)
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
-  <a href="https://discord.gg/A6FNKHwhGv">
-    <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
-  </a>
-  
-  ![GitHub followers](https://img.shields.io/github/followers/robertocarlosmedina?color=blue&style=social)
- </p>
- 
+[![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blueviolet?style=circle-square)](https://uta.cv) 
 
 </div>
 
@@ -27,8 +18,14 @@
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocarlosmedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
-<h2  align="center">Connect with me</h2>
-
+<h2  align="center">More Aboute me</h2>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
+  <a href="https://discord.gg/A6FNKHwhGv">
+    <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
+  </a>
+  ![GitHub followers](https://img.shields.io/github/followers/robertocarlosmedina?color=blue&style=social)
+</p>
 
 <p align="center">
      <a href="mailto:robertocarlosmedina.dev@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="40" height="40" /></a>
