@@ -20,7 +20,7 @@
 
 <h2  align="center">More Aboute me</h2>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Github%20Profile%20Views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
+  <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Github%20Profile%20Views&color=blueviolet&style=flat" alt="robertocarlosmedina" />  
   <a href="https://discord.gg/A6FNKHwhGv">
     <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
   </a>
