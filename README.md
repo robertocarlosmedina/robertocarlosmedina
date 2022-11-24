@@ -1,11 +1,10 @@
 <div align=center>
 <h1>Hello, I'm Roberto</h1>
 
-[![Website](https://img.shields.io/badge/Software-Engineer-DevGo-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Software&Engineer-DevGo-green?style=flat-square)](https://google.com)
 [![Website](https://img.shields.io/badge/Teacher-UTA-blue?style=flat-square)](https://uta.cv)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
-  <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
   <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 <a href="https://discord.gg/A6FNKHwhGv">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
