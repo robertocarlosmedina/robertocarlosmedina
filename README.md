@@ -26,7 +26,7 @@
 
 
 <p align="center">
-     <a href="mailto:rmedina@uta.cv"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"   width="80" height="80" /></a>
+     <a href="mailto:rmedina@uta.cv"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="80" height="80" /></a>
      <a href="https://www.instagram.com/robertocarlosmedinacv/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"   width="80" height="80" /></a>
      <a href="https://www.linkedin.com/in/robertocarlosmedina/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"   width="80" height="80" /></a>
 </p>
