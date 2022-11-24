@@ -11,6 +11,8 @@
   <a href="https://discord.gg/A6FNKHwhGv">
     <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
   </a>
+  
+  <img src="https://img.shields.io/github/followers/:robertocarlosmedina?label=Follow" alt="Followers on Github">
  </p>
  
 
