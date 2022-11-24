@@ -1,9 +1,11 @@
 <div align=center>
 <h1>Hello, I'm Roberto</h1>
 
-  [![Website](https://img.shields.io/badge/Software%20Engineer-cvbooking-blue?style=flat-square)](https://cvbooking.com)
+[![Website](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blue?style=flat-square)](https://cvbooking.com)
+[![Website](https://img.shields.io/badge/Software%20Engineer-cvbooking-blue?style=flat-square)](https://cvbooking.com)
+[![Website](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-green?style=flat-square)](https://cvbooking.com)
 [![Website](https://img.shields.io/badge/Software%20Engineer-DevGo-green?style=flat-square)](https://devgo.org)
-[![Website](https://img.shields.io/badge/Teacher-UTA-blue?style=flat-square)](https://uta.cv)
+[![Website](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blue?style=flat-square)](https://uta.cv)
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
   <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
