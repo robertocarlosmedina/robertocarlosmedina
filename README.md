@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
   </a>
   
-  <img src="https://img.shields.io/github/followers/robertocarlosmedina?label=Followers" alt="Followers on Github">
+  ![GitHub followers](https://img.shields.io/github/followers/robertocarlosmedina?color=blue&style=social)
  </p>
  
 
