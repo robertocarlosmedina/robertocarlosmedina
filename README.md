@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Profile%20views&color=0eb421&style=flat" alt="robertocarlosmedina" />  
   <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
   <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/instagram/follow/shields_io?style=social&logo=instagram"
-            alt="follow on Twitter"></a>
+<a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
  </p>
  
 
