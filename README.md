@@ -5,12 +5,14 @@
   </p>
 
 <h2 align="center">Work Experiences</h2>
+Teacher's assistant
   
 [![cvbooking](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![DevGO](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://devgo.org)
 [![DevGo](https://img.shields.io/badge/Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://devgo.org)
-[![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blueviolet?style=circle-square)](https://uta.cv) 
+[![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blueviolet?style=circle-square)](https://uta.cv)
+[![UTA](https://img.shields.io/badge/Teacher'%20s%20Assistant-UTA-blueviolet?style=circle-square)](https://uta.cv)
 
 </div>
 
