@@ -5,7 +5,6 @@
   </p>
 
 <h2 align="center">Work Experiences</h2>
-Teacher's assistant
   
 [![cvbooking](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
