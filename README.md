@@ -1,8 +1,9 @@
 <div align=center>
 <h1>Hello, I'm Roberto</h1>
-  <p align="center">"The last line of code is never the last, because when you are at the top of the world, the next challenge will be to reach the universe." <br />Roberto Carlos Medina - 2021
+  
+ > The last line of code is never the last, because when you are at the top of the world, the next challenge will be to reach the universe.
+ > Roberto Carlos Medina - 2021
   <p><strong>Let's build something together</strong></p>
-  </p>
 
 <h2 align="center">Work Experiences</h2>
 
