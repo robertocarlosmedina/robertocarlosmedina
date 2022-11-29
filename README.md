@@ -5,7 +5,8 @@
   </p>
 
 <h2 align="center">Work Experiences</h2>
-  
+   Junior  
+[![cvbooking](https://img.shields.io/badge/Computer%20Technician%20/%20Junior%20Software%20Developer-Guesthouse%20Soncent-blueviolet?style=circle-square)](https://cvbooking.com)
 [![cvbooking](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![DevGO](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://devgo.org)
