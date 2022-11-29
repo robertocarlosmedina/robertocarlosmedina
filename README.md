@@ -5,8 +5,8 @@
   </p>
 
 <h2 align="center">Work Experiences</h2>
-   Junior  
-[![cvbooking](https://img.shields.io/badge/Computer%20Technician%20/%20Junior%20Software%20Developer-Guesthouse%20Soncent-blueviolet?style=circle-square)](https://cvbooking.com)
+
+[![cvbooking](https://img.shields.io/badge/Computer%20Technician%20/%20Junior%20Software%20Developer-Guesthouse%20Soncent-blueviolet?style=circle-square)]([https://cvbooking.com](https://www.expedia.com/Sao-Vicente-Hotels-GuestHouse-Soncent-Lda.h33288517.Hotel-Information?chkin=2022-11-30&chkout=2022-12-01&x_pwa=1&rfrr=HSR&pwa_ts=1668590652909&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=6060459&destination=Mindelo%2C+Sao+Vicente%2C+Cape+Verde&destType=MARKET&selected=33288517&sort=RECOMMENDED&top_dp=45&top_cur=USD&userIntent=&selectedRoomType=219614909&selectedRatePlan=284078543))
 [![cvbooking](https://img.shields.io/badge/Junior%20Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![cvbooking](https://img.shields.io/badge/Software%20Engineer-cvbooking-blueviolet?style=circle-square)](https://cvbooking.com)
 [![DevGO](https://img.shields.io/badge/Junior%20Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://devgo.org)
