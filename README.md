@@ -19,15 +19,15 @@
 
 <h2 align="center">Activity details</h2>
 <p align="center">
- 
+ <!---
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=robertocarlosmedina&hide_title=true&show_icons=true&theme=radical" alt="Roberto Carlos" />
+-->
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocarlosmedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html" />
 </p>
 
 <h2  align="center">More Aboute me</h2>
-<!---
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Github%20Profile%20Views&color=blueviolet&style=flat" alt="robertocarlosmedina" /> -->
+  <img src="https://komarev.com/ghpvc/?username=robertocarlosmedina&label=Github%20Profile%20Views&color=blueviolet&style=flat" alt="robertocarlosmedina" /> 
   <a href="https://discord.gg/A6FNKHwhGv">
     <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="chat on Discord">
   </a>
