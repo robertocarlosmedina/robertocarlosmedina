@@ -38,10 +38,3 @@ Roberto Carlos Medina - 2021</p>
      <a href="https://www.instagram.com/robertocarlosmedinacv/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"   width="40" height="40" /></a>
      <a href="https://www.linkedin.com/in/robertocarlosmedina/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"   width="40" height="40" /></a>
 </p>
-<h2  align="center">Visit my Portfolio</h2>
-<p align=center>
- 
- <a href="https://robertocarlosmedina.github.io/portfolio/">
-    <img src="https://github.com/robertocarlosmedina/RobertoCarlosMedina/blob/main/assets/portfolioIcon.png" alt="Potfolio icon" height="70"/>
- </a>
-</p>
