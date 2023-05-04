@@ -37,5 +37,5 @@ Roberto Carlos Medina - 2021</p>
      <a href="mailto:robertocarlosmedina.dev@gmail.com"><img alt="Gmail"  title="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"   width="40" height="40" /></a>
      <a href="https://www.instagram.com/robertocarlosmedinacv/"><img title="Instgrame" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg"   width="40" height="40" /></a>
      <a href="https://www.linkedin.com/in/robertocarlosmedina/"><img title="Facebook" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"   width="40" height="40" /></a>
-  <a href="https://www.linkedin.com/in/robertocarlosmedina/"><img title="Facebook" src="https://drive.google.com/uc?export=view&id=1c3b5vbXKahh_sSclrNsKlReOwdHll4e4"   width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/robertocarlosmedina/"><img title="Facebook" src="https://drive.google.com/uc?export=view&id=1c3b5vbXKahh_sSclrNsKlReOwdHll4e4"   width="42" height="42" /></a>
 </p>
