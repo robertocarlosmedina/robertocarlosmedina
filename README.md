@@ -22,7 +22,7 @@ Roberto Carlos Medina - 2021</p>
  <!---
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=robertocarlosmedina&hide_title=true&show_icons=true&theme=radical" alt="Roberto Carlos" />
 -->
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocarlosmedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html,roff,jupyter%20notebook" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertocarlosmedina&hide_title=false&layout=compact&theme=radical&count_private=true&hide=css,html,roff,Jupyter%20Notebook" />
 </p>
 
 <h2  align="center">More Aboute me</h2>
