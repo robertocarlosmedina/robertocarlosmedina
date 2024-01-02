@@ -14,6 +14,10 @@ Roberto Carlos Medina - 2021</p>
 [![DevGo](https://img.shields.io/badge/Software%20Engineer-DevGo-blueviolet?style=circle-square)](https://devgo.org)
 [![UTA](https://img.shields.io/badge/Teacher's%20Assistant-UTA-blueviolet?style=circle-square)](https://uta.cv)
 [![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blueviolet?style=circle-square)](https://uta.cv)
+[![UTA](https://img.shields.io/badge/Full%20Stack%20Software%20Engineer-Fossa%20Systems-blueviolet?style=circle-square)](https://fossa.systems/)
+
+
+   Engineer
 
 </div>
 
