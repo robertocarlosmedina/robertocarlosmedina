@@ -15,7 +15,7 @@ Roberto Carlos Medina - 2021</p>
 [![UTA](https://img.shields.io/badge/Teacher's%20Assistant-UTA-blueviolet?style=circle-square)](https://uta.cv)
 [![UTA](https://img.shields.io/badge/Teacher%20&%20Software%20Engineer-UTA-blueviolet?style=circle-square)](https://uta.cv)
 [![UTA](https://img.shields.io/badge/Full%20Stack%20Software%20Engineer-Fossa%20Systems-blueviolet?style=circle-square)](https://fossa.systems/)
-[![ISCTE-IUL](https://img.shields.io/badge/Teacher's%20Assistant-ISCTE-IUL-blueviolet?style=circle-square)](https://www.iscte-iul.pt/)
+[![ISCTE-IUL](https://img.shields.io/badge/Teacher's%20Assistant-ISCTE-blueviolet?style=circle-square)](https://www.iscte-iul.pt/)
 
 </div>
 
